@@ -24,7 +24,6 @@ Here are screenshots of the game running:
 
 ![Game Screenshot 2](terminal-2.jpg)):
 
-> *(Screenshot will appear here)*
 
 ---
 
